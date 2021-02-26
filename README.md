@@ -8,6 +8,8 @@
 * Play with redirecting of input/output using angle brackets `<, >` and the pipe operator `|`
 
 ## Exercises
+Note: You will do the following excercises on the Shell. For each excercise, copy and paste 
+your shell commands to the main.sh file. After completing all the excercises, commit to github.
 1. Please run the command `$SHELL`.
 
 2. Check what your current working directory is. Navigate to `/home/runner/Practical1-The-Shell`
